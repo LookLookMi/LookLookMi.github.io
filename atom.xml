@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DaiShiJi&#39;s Blog.</title>
+  
+  <subtitle>Blog of ShiJi Dai.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/DaiShJi/DaiShJi.github.io/"/>
+  <updated>2021-06-11T14:04:16.000Z</updated>
+  <id>https://github.com/DaiShJi/DaiShJi.github.io/</id>
+  
+  <author>
+    <name>shiji.dai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dijkstra算法的简单python实现（附代码）</title>
+    <link href="https://github.com/DaiShJi/DaiShJi.github.io/2020/05/19/2019-03-21-dijkstra-algorithms/"/>
+    <id>https://github.com/DaiShJi/DaiShJi.github.io/2020/05/19/2019-03-21-dijkstra-algorithms/</id>
+    <published>2020-05-19T10:43:00.000Z</published>
+    <updated>2021-06-11T14:04:16.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Dijkstra算法介绍：&quot;&gt;&lt;a href=&quot;#Dijkstra算法介绍：&quot; class=&quot;headerlink&quot; title=&quot;Dijkstra算法介绍：&quot;&gt;&lt;/a&gt;Dijkstra算法介绍：&lt;/h2&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="算法" scheme="https://github.com/DaiShJi/DaiShJi.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="python" scheme="https://github.com/DaiShJi/DaiShJi.github.io/categories/%E7%AE%97%E6%B3%95/python/"/>
+    
+    
+      <category term="Dijkstra" scheme="https://github.com/DaiShJi/DaiShJi.github.io/tags/Dijkstra/"/>
+    
+      <category term="算法" scheme="https://github.com/DaiShJi/DaiShJi.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="python" scheme="https://github.com/DaiShJi/DaiShJi.github.io/tags/python/"/>
+    
+  </entry>
+  
+</feed>
